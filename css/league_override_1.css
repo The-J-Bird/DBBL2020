@@ -1,0 +1,35 @@
+div.banner {
+background-image: url(../images/dbbl.png);
+background-position: left;
+text-align: right;
+padding: -30px;
+}
+
+div.banner f1
+{
+font: 30px Tahoma;
+padding: 30px;
+}
+
+
+body
+{
+background-color: #04abeb;
+background: #04abeb;
+}
+
+input, select {
+    padding: .25rem;
+    border-width: 1px;
+    --border-opacity: 1;
+
+    border-color: rgba(4,171,235,var(--border-opacity));
+}
+
+table.common td {
+    padding: 10px 5px;
+    border-top: 1px solid #ccc;
+}
+.font-sans {
+    font-family: Roboto,sans-serif;
+}
